@@ -1,0 +1,11 @@
+<scenario>
+    <AgentList>
+        <Agent x="10" y="0" heading="90" speed="3" drange="0">
+            <!-- <Decoreators>
+                <Decoreator> ...
+            </Decoreators> -->
+        </Agent>
+        <Agent x="20" y="30" heading="90" speed="2" drange="1"></Agent>
+        <Agent x="30" y="40" heading="180" speed="1" drange="2"></Agent>
+    </AgentList>
+</scenario>

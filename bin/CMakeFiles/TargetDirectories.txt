@@ -1,0 +1,3 @@
+/home/S20201919/COME2201-OH0LYW4T3R/bin/CMakeFiles/refactoring.dir
+/home/S20201919/COME2201-OH0LYW4T3R/bin/CMakeFiles/edit_cache.dir
+/home/S20201919/COME2201-OH0LYW4T3R/bin/CMakeFiles/rebuild_cache.dir
